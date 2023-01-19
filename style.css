@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+.container{
+    text-align: center;
+}
+.show{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-top: 20px;
+}
